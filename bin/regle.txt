@@ -1,0 +1,75 @@
+﻿
+=MENHIR
+Vous  êtes  un  peuple  de  korrigans,  des lutins  bretons  qui  tentent  chaque  année de  réaliser  le  plus  bel  alignement  de menhirs. 
+Pour  cela,  il  va  falloir  obtenir des graines auprès du Géant Gardien de la Montagne, puis confectionner l'Engrais Magique  qui  fera  pousser  les  menhirs.
+Attention  à  ne  pas  vous  faire  voler  vos graines par les Farfadets Chapardeurs !
+
+2 à 6 joueurs, 8 ans et plus.
+
+Deux façons de jouer : en parties rapides ou avec les règles avancées.
+
+==PARTIES RAPIDES
+
+Prenez uniquement les cartes avec le Géant au verso.
+
+Le but du jeu est de faire pousser plus de menhirs que les adversaires.
+En cas d'égalité, le nombre de graines restantes  sert  à  départager  les  joueurs.
+Les  égalités complètes  (autant  de  menhirs  et  de  graines)  sont possibles.
+
+Au début, chaque joueur est distribué 4 cartes Ingrédient et 2 Graines.
+Une partie se déroule en 4 tours de jeu (printemps, été, automne,  hiver). 
+La  plus  jeune  joueuse  commence  la partie.
+À tour de rôle, les joueurs posent une carte et choisissent l'action à effectuer parmi les trois possibles en choissisant le nombre correspondant à la saison actuelle et à l'action.
+La "force" d'une action dépend de la carte jouée, de la saison en cours et de l'action choisie.
+
+===Géant Gardien de la Montagne
+
+En offrant un ingrédient au Géant, vous récupérez des graines  en  échange.
+
+===Engrais Magique
+
+Confectionner  de  l'Engrais  vous  permet  de  faire pousser  vos  graines.
+Si vous avez moins de graines que la valeur de la carte, l'excédent est perdu.
+
+===Farfadets Chapardeurs
+
+En  soudoyant  les  Farfadets,  vous  volez  les  graines d'un autre joueur, pour les ajouter aux vôtres.
+Vous ne pouvez pas voler les menhirs qui ont déjà poussé.
+Si le joueur que vous chapardez possède moins de graines que  la  valeur  de  la  carte,  vous  lui  prenez  toutes  ses graines, et l'excédent est perdu.
+Un chapardage se fait sur un seul joueur à la fois ; il n'est pas possible de le répartir sur plusieurs adversaires.
+
+==RÈGLES AVANCÉES
+
+Ces règles utilisent toutes les cartes du jeu, celles avec le Géant et celles avec le Farfadet au verso.
+
+Une partie est constituée de plusieurs manches ; il y a autant de manches que de joueurs.
+Chaque manche se joue comme une partie rapide : les joueurs reçoivent 4 cartes Ingrédient, et la manche se déroule  en  4  tours  correspondant  aux  saisons  de l'année.
+Le premier joueur doit être différent à chaque manche.
+
+Le  but  du  jeu  a  changé  :  il  faut  maintenant  être  le joueur  dont  le  total  de  menhirs  poussés  est  le  plus grand à la fin de toutes les manches de la partie (voir le comptage des points).
+
+Les nouvelles cartes sont de 2 types :
+- Les  cartes  de  comptage  de  points,  qui  sont  comme des Champs avec des nombres portés dessus. (L'ordinateur vous fait automatiquement)
+- Les cartes d'alliés : les Taupes Géantes et les Chiens de Garde.
+
+===Alliés
+
+Au début de chaque manche, les joueurs choisissent : soit  de  prendre  2  graines  (comme  pour  les  parties rapides),  soit  de  piocher  une  carte  Alliés.
+Ces  cartes ont des capacités spéciales, dont la "force" dépend de la  saison  en  cours.
+Elles  sont  jouées  en  plus  des  4 cartes  habituelles,  mais  si  une  carte  n'est  pas  jouée pendant la manche, elle est perdue et il faut la rendre.
+
+===Taupes Géantes
+
+Quand  vous  envoyez  des  Taupes  Géantes  chez  un adversaire,  elles  détruisent  un  certain  nombre  de menhirs adultes.
+Les  Taupes  Géantes  peuvent être  utilisées  contre  les  menhirs  qui  ont  déjà  poussé uniquement, et pas contre les graines de menhir.
+Vous pouvez les utiliser même pendant le tour de jeu des autres joueurs.
+
+===Chiens de Garde
+
+Les  Chiens  de  Garde  permettent  de  protéger  vos graines de menhir contre les Farfadets Chapardeurs.graines de menhir contre les Farfadets Chapardeurs.
+Exemple  :  Un  adversaire  envoit  ses  Farfadets  pour vous voler 4 graines ; si votre carte Chiens de Garde vous permet de protéger 3 graines en cette saison, une seule graine vous sera dérobée.
+Les  Chiens  de  Garde  ne  protègent  que  contre  les Farfadets  Chapardeurs. Il  ne  peuvent  pas  empêcher les Taupes Géantes de détruire vos menhirs.
+
+
+
+Copyright © 2005, Amaury Bouchard
